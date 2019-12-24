@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpamDetection", "SpamDetection\SpamDetection.csproj", "{40A7CB34-4642-4EB2-B1B0-AAC1AE6FF219}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpamFilter", "SpamFilter\SpamFilter.csproj", "{3801004A-27C3-46B5-A5C4-973F8CEDF3B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{40A7CB34-4642-4EB2-B1B0-AAC1AE6FF219}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40A7CB34-4642-4EB2-B1B0-AAC1AE6FF219}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40A7CB34-4642-4EB2-B1B0-AAC1AE6FF219}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3801004A-27C3-46B5-A5C4-973F8CEDF3B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3801004A-27C3-46B5-A5C4-973F8CEDF3B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3801004A-27C3-46B5-A5C4-973F8CEDF3B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3801004A-27C3-46B5-A5C4-973F8CEDF3B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
