@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpamDetection", "SpamDetect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpamFilter", "SpamFilter\SpamFilter.csproj", "{3801004A-27C3-46B5-A5C4-973F8CEDF3B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopTest", "DesktopTest\DesktopTest.csproj", "{19470859-B47B-497D-97A6-1DC9C341460D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{3801004A-27C3-46B5-A5C4-973F8CEDF3B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3801004A-27C3-46B5-A5C4-973F8CEDF3B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3801004A-27C3-46B5-A5C4-973F8CEDF3B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19470859-B47B-497D-97A6-1DC9C341460D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19470859-B47B-497D-97A6-1DC9C341460D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19470859-B47B-497D-97A6-1DC9C341460D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19470859-B47B-497D-97A6-1DC9C341460D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
